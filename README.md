@@ -77,9 +77,9 @@ Contribuições são bem-vindas\! Sinta-se à vontade para propor melhorias, cor
 
 -----
 
-## 📄 Licença
+## 📄 Acesse a documentação no DeepWiki
 
-\[Insira a Licença do Projeto aqui. Se não houver uma, considere adicionar uma (ex: MIT).]
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/EvelyParanhos/estudo-IA-simbolica)
 
 -----
 
