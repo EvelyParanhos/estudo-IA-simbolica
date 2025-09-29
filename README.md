@@ -1,1 +1,1 @@
-# estudo-IA-simbolica
+Estudo
