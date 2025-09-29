@@ -83,7 +83,8 @@ Contribuições são bem-vindas\! Sinta-se à vontade para propor melhorias, cor
 
 -----
 
-**Autor:** **@EvelyParanhos**
+## 📫 Como me encontrar
 
-```
-```
+- **LinkedIn:** [www.linkedin.com/in/evely-paranhos-souza]
+- **E-mail:** [evelyparanhos05@gmail.com]
+
